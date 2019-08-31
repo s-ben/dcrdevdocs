@@ -1,4 +1,4 @@
-# <img class="dcr-icon" src="/img/dcr-icons/Transactions.svg" /> Hard Fork Voting and Consensus Rule Changes
+# <img class="dcr-icon" src="/img/dcr-icons/QuestionTicket.svg" /> Hard Fork Voting and Consensus Rule Changes
 
 ---
 
