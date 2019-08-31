@@ -1,13 +1,11 @@
-# <img class="dcr-icon" src="/img/dcr-icons/Transactions.svg" /> Overview
+# <img class="dcr-icon" src="/img/dcr-icons/Transactions.svg" /> opCodes
 
 ---
 
-## Transactions
 
-
-The following subsections briefly document core transaction details.
-
-#### OpCodes
+**NOTE: below is from BTC docs for reference. Opcodes for Decred appear to be
+documented in this file,**
+https://github.com/decred/dcrd/blob/8be96a87293a19f64dcbb933791531b151b01bd5/txscript/opcode.go
 
 
 The opcodes used in the pubkey scripts of standard transactions are:
@@ -117,4 +115,3 @@ OP_0            A pubkey
 2. A sig compared to B pubkey (no match)
 
 Failure, aborted: two signature matches required but none found so far, and there's only one pubkey remaining
-
